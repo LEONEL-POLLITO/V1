@@ -103,7 +103,7 @@ const {
   + 'VERSION:3.0\n'
   + 'FN:Mr.Pato\n' // Nama
   + 'ORG:Mr.Pato-Bot;\n' // Nama bot
-  + 'TEL;type=CELL;type=VOICE;waid=17693039228:+1 769 303-9223n' // Nomor bot
+  + 'TEL;type=CELL;type=VOICE;waid=524444066685:+52 444 406 6685n' // Nomor bot
   + 'END:VCARD' 
   
   
@@ -585,7 +585,7 @@ const {
   ────────────────
   〘 *BOT* 〙
   ‣ Prefijo:  *「 ${prefix} 」*
-  ‣ Yo soy: 𝕸𝖗.𝕻𝖆𝖙𝖔 -𝕭𝖔𝖙⚜️🦆
+  ‣ Yo soy: ৣ››🐰͢⸸ғᴋ᭭-ʟᷤᴇͤᴏͧɴͪᴇͤʟᷤ⸸
   ‣ Conección: *Baileys*
   ‣ Tiempo encencido: *${kyun(uptime)}*
   ‣ Modo: *ON*
@@ -598,7 +598,7 @@ const {
   _${Ig}_
   ────────────────
   ┏━━━━━━━━━━━━━━━━━━━━
-  ┃─────〘 𝕸𝖗.𝕻𝖆𝖙𝖔 -𝕭𝖔𝖙⚜️🦆 〙────
+  ┃─────〘 ৣ››🐰͢⸸ғᴋ᭭-ʟᷤᴇͤᴏͧɴͪᴇͤʟᷤ⸸ 〙────
   ┃━━━━━━━━━━━━━━━━━━━━
   ┠⊷️ *${prefix}Simi (Teks)*
   ┃ _Simsimi Chat_
@@ -975,7 +975,7 @@ const {
 	uptime = process.uptime()
 	teks = `*‣ Nombre del bot* : ${me.name}
 	‣ *Número del bot* : @${me.jid.split('@')[0]}
-	‣ *Dueño* : Mr.Pato
+	‣ *Dueño* : ᭼(♡ര‿ര)LEONEL ᷒ ᷒ ᷒᭼⁩
 	‣ *Prefijo* : ${prefix}
 	‣ *Usuarios bloqueados* : ${blocked.length}
 	‣ *Tiempo activo* : ${kyun(uptime)}
